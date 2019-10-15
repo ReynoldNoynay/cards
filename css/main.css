@@ -33,7 +33,7 @@ html {
   margin: 0 auto 1rem;
 }
 
-.cards strong{
+.cards strong {
   display: block;
   margin-bottom: 1rem;
 
@@ -50,7 +50,7 @@ html {
   font-style: italic;
 }
 
-.cards dd{
+.cards dd {
   display: inline-block;
   margin: 0;
   min-width: 9em;
